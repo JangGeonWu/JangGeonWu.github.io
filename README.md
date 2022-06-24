@@ -1,4 +1,4 @@
-실제 블로그로 이동하려면 [이것](JangGeonWu.github.io)을 클릭하세요
+실제 블로그로 이동하려면 [이것](https://janggeonwu.github.io/)을 클릭하세요
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
