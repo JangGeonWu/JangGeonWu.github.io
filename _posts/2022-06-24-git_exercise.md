@@ -23,7 +23,7 @@ git branch : 현재 branch 정보를 확인한다
 git clone ~~~ `folder_name` : (저장하고픈 경로에서) `folder_name`이라는 곳에 github 파일들을 내려받는다
 
 ### 새로운 버전 pull하기 위해서는
-1. git add ., git commit -m "abcd"를 수행한다
+1. git add .와 git commit -m "abcd"를 수행한다(이전까지 내가 하던 활동 저장)
 2. git pull origin `branch_name` : 해당 branch로부터 동기화
 
 ### master가 아닌 branch로 push를 했을 경우
